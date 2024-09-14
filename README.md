@@ -6,7 +6,7 @@ step 1: I built a docker
 
 step2:  I built an image of my app
 
-step3:  I stored Expose required ports
+step3:  I Expose required ports
 
 step 4: Set the entrypoint or command
 
