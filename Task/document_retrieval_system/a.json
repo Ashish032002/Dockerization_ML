@@ -1,0 +1,14 @@
+{
+    "results": [
+      {
+        "title": "Document Title",
+        "content": "Document Content",
+        "embedding": ["Ashish"],
+        "date": "2024-09-14T12:34:56"
+      }
+    ],
+    "page": 1,
+    "total_results": 1,
+    "inference_time": 0.123
+  }
+  
